@@ -1,4 +1,4 @@
-FROM node:14
+FROM node:14.21.3-bullseye-slim
 
 ENV INSTANA_AUTO_PROFILE true
 
